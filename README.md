@@ -14,13 +14,13 @@ The devops person who needs to have a place to practice.
 
 ## What are these things?
 
-Mastodon is a self-hosted version of GNU social with a user interface 
+[Mastodon](http://mastodon.social) is a self-hosted version of GNU social with a user interface 
 reminiscent of Tweetdeck. It has a federated structure, and individuals
 can either get an account on someone else's system or run their own and
 then get feeds.
 
-Terraform (from Hashicorp) is software for provisioning new bare-metal
-hardware or virtual machines from a variety of providers (including Packet).
+[Terraform](https://github.com/hashicorp/terraform) (from Hashicorp) is software for provisioning new bare-metal
+hardware or virtual machines from a variety of providers (including [Packet](http://packet.net) ).
 It speeds the path for going from nothing to something. Your infrastructure
 is created from a script.
 
@@ -28,6 +28,8 @@ is created from a script.
 
 Mastodon has a hashtag #terraform that's as good as any; also issues here
 on Github are always useful.
+
+The hashtag #AdminNeedHelp looks useful too.
 
 ## Why on earth are you doing this?
 
