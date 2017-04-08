@@ -40,7 +40,7 @@ still more than a dozen steps.
 Mastodon has a hashtag #terraform that's as good as any; also issues here
 on Github are always useful.
 
-The hashtag #AdminNeedHelp looks useful too.
+The hashtag #AdminNeedHelp or just #NeedHelp looks useful too.
 
 The hashtag #devops is good on lots of systems, not just Mastodon.
 
@@ -51,3 +51,9 @@ I used to run a Usenet feed, need I say more?
 ## When will this be done?
 
 Hopefully sometime reasonably soon, but no guarantees and no promises.
+
+## Acknowledgements
+
+* [@vielmetti@mastodon.social](https://mastodon.social/@vielmetti) - for most of the text you see here
+* [@ceejbot@rafting.io](https://rafting.io/@ceejbot) - for an Ansible playbook
+* [@rayalez@hackertribe.io](https://hackertribe.io/@rayalez) - for a [guide](http://digitalmind.io/post/deploying-mastodon-on-digital-ocean) to deploying on Digital Ocean
