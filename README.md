@@ -1,18 +1,22 @@
 # mastodon-terraform
 
-Set up a brand new Mastodon instance using Terraform. A work in progress.
+Set up a brand new Mastodon instance using Terraform and Ansible. A work in progress.
 
 ## Who is this for
 
 The person who wants to run a Mastodon instance on their own server, and
-who needs to install a bunch of code quickly to get going.
+who needs to install a bunch of code and configs quickly to get going.
 
 The person testing Mastodon who wants to check that the latest and greatest
 passes some set of tests.
 
 The devops person who needs to have a place to practice, and what better
 place to practice than a federated system which can generate a firehose of
-traffic?
+replicated traffic?
+
+The ARM developer who wants to port a bunch of code that currently works on
+Intel so that it [works on ARM](http://worksonarm.com), and who uses devops
+tools to make that process go faster.
 
 ## What are these things?
 
@@ -27,6 +31,9 @@ is created from a script.
 
 [Ansible](https://github.com/ansible/ansible) (from Red Hat) automates
 the process of taking a machine and making it be some specific configuration.
+[ceejbot](https://github.com/ceejbot) has a working [mastodon-ansible](https://github.com/ceejbot/mastodon-ansible)
+configuration that reduces setup complexity considerably, though there are
+still more than a dozen steps.
 
 ## Where is this being discussed?
 
