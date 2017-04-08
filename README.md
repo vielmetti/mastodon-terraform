@@ -54,6 +54,6 @@ Hopefully sometime reasonably soon, but no guarantees and no promises.
 
 ## Acknowledgements
 
-* @vielmetti@mastodon.social - most of the text you see here
-* @rayalez@hackertribe.io - for a [guide](http://digitalmind.io/post/deploying-mastodon-on-digital-ocean) to deploying on Digital Ocean
-* ceejbot - for an Ansible playbook
+* [@vielmetti@mastodon.social](https://mastodon.social/@vielmetti) - for most of the text you see here
+* [@ceejbot@rafting.io](https://rafting.io/@ceejbot) - for an Ansible playbook
+* [@rayalez@hackertribe.io](https://hackertribe.io/@rayalez) - for a [guide](http://digitalmind.io/post/deploying-mastodon-on-digital-ocean) to deploying on Digital Ocean
